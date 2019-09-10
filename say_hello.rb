@@ -4,5 +4,5 @@ def say_hello(name)
 puts "Mya Patrick"
 end
 
-def Hello Ruby Programmer!
+def say_helloHello Ruby Programmer!
 say_hello()
