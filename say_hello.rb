@@ -1,4 +1,4 @@
 # Build your say_hello method here
-def say_hello ("Mya"
-Hello Mya!
+def say_hello ("Mya")
+print Hello Mya!
 end
