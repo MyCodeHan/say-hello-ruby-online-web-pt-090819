@@ -4,4 +4,3 @@ print Hello Mya!
 end
 
 Hello, Ruby Programmer!
-end 
