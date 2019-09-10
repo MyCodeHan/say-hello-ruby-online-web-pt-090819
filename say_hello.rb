@@ -1,9 +1,7 @@
 # Build your say_hello method here
 def say_hello 'Mya Patrick'
 
-print Hello Mya!
+Hello Mya!
 
 Hello Ruby Programmer!
 say_hello()
-
-end
