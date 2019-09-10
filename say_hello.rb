@@ -4,4 +4,6 @@ def say_hello 'Mya Patrick'
 print Hello Mya!
 
 Hello Ruby Programmer!
+say_hello()
+
 end
