@@ -2,6 +2,7 @@
 
 def say_hello(name)
 puts "Mya Patrick"
+end
 
 Hello Mya!
 
